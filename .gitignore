@@ -1,0 +1,5 @@
+.venv/
+images/
+easyocr_korean/
+/*build/
+/*test/
